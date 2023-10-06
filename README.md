@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MERN, SERN stack**
 
-- 📫 How to reach me **garihi2312@gmail.com**
+- 📫 How to reach me **tqtinh2312@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/mvd7eexr](https://tinyurl.com/mvd7eexr)
 
